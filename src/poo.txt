@@ -1,0 +1,75 @@
+** VETERINARIA
+
+gato
+{
+    nombre: Michi
+    apellido: gardfield
+    edad: 2 años
+    raza: naranjoso
+
+
+    fecha vacunacionProxima(){};
+
+}
+
+gato.vacunacionProxima
+
+
+cabra 
+{
+    nombre: Vilma
+    apellido: Laloca
+    edad: 8 años
+    raza: mesti
+
+
+    fecha vacunacionProxima(){};
+
+}
+
+
+gato2
+{
+    nombre: Michi
+    apellido: gardfield
+    edad: 2 años
+    raza: naranjoso
+
+
+    fecha vacunacionProxima(){};
+
+}
+
+
+
+auto
+{
+    marca: toyota
+    modelo: corolla
+    año: 2023
+}
+
+
+
+
+
+
+class animales {
+    string nombre;
+    string apellido;
+    int edad;
+    ...
+    ...
+    ..
+    .
+    int vacunacionProxima (){....}
+    ...
+}
+
+
+animales perro1
+
+
+perro1.nombre= "Fatiga";
+perro1.apellido="Argento";
+...
